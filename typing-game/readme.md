@@ -1,6 +1,6 @@
-## Speed Typer Typing Game
+## Typing Game
 
-Game to beat the clock by typing random words
+Beat the clock by typing random words
 
 ## Project Specifications
 
